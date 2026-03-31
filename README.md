@@ -2,9 +2,7 @@
 
 一个摸鱼的开发者 🐟
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=拖延症晚期患者)
-
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&lines=拖延症晚期患者)
 
 ## 📊 GitHub Stats
 
@@ -13,8 +11,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-1124&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=L-1124&theme=tokyonight&hide_border=true)
-
----
 
 ## 🏆 Achievements
 
